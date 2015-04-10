@@ -1,4 +1,4 @@
-FROM nginx:1.7.10
+FROM nginx:1.7.11
 EXPOSE 80
 ENV HHVM_VERSION 3.6.1~wheezy
 RUN apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0x5a16e7281be7a449
