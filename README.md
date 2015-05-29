@@ -17,5 +17,5 @@ of the standard private ip ranges (10.x.x.x, 192.168.x.x, 172.16.0.0 - 172.31.25
 
 ## Key Software Versions
 
-* Nginx: 1.7.11
-* HHVM: 3.6.1
+* Nginx: 1.9.1
+* HHVM: 3.7.1
