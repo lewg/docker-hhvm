@@ -19,5 +19,5 @@ do, do so carefully!)
 
 ## Key Software Versions
 
-* Nginx: 1.9.3
-* HHVM: 3.8.0
+* Nginx: 1.9.4
+* HHVM: 3.9.0
