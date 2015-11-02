@@ -1,6 +1,6 @@
-FROM nginx:1.9.4
+FROM nginx:1.9.5
 EXPOSE 80
-ENV HHVM_VERSION 3.9.0~jessie
+ENV HHVM_VERSION 3.10.1~jessie
 RUN apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0x5a16e7281be7a449
 RUN echo deb http://dl.hhvm.com/debian jessie main | tee /etc/apt/sources.list.d/hhvm.list
 RUN apt-get update -qq \
