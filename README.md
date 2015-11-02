@@ -1,7 +1,7 @@
 HHVM
 ====
 
-Runs [HHVM](http://hhvm.com/) behind [Nginx](http://nginx.org/) with[supervisor](http://supervisord.org/).
+Runs [HHVM](http://hhvm.com/) behind [Nginx](http://nginx.org/) with [supervisor](http://supervisord.org/).
 
 Info
 ----
